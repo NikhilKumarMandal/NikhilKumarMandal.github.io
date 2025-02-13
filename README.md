@@ -1,5 +1,3 @@
-# NikhilKumar
-
 # College Information
 
 ## College Name
